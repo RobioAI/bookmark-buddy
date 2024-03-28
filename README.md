@@ -23,11 +23,6 @@ Make sure to keep the JSON file containing your service account credentials secu
 
 Once you have the JSON file, you can extract the required information, such as the client email and private key, to authenticate your requests to Dialogflow from your browser extension. If you need further assistance with integrating the credentials into your extension, feel free to ask!
 
-## Usage
-
-```python
-import numpy as np
-```
 
 
 ## Contributing
