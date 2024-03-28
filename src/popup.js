@@ -5,8 +5,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Initialize Dialogflow Messenger
   dfMessenger = new DialogflowMessenger({
-    dfApiKey: 'YOUR_DIALOGFLOW_API_KEY',
-    dfAgentId: 'YOUR_DIALOGFLOW_AGENT_ID',
+    dfApiKey: // This is where the api key goes which I have stored at home,
+    dfAgentId: // The agend ID,
     defaultLocale: 'en'
   });
 
