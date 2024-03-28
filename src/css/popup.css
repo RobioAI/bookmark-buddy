@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  min-width: 300px;
+}
+
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+}
+
+.chat-box {
+  flex: 1;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#user-input {
+  margin-bottom: 10px;
+}
+
+#send-btn {
+  padding: 5px 10px;
+}
